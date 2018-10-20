@@ -2,7 +2,7 @@
 
 # Netlytics <small>1.0</small>
 
-> A Java package for complex network analytics.
+> A Java Package for Complex Network Analytics
 
 * Simple and lightweight (~19kB gzipped)
 * No statically built html files

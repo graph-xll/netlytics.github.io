@@ -1,8 +1,8 @@
 ![logo](_media/logo.png)
 
-# docsify <small>3.5</small>
+# Netlytics <small>1.0</small>
 
-> A magical documentation site generator.
+> A Java package for complex network analytics.
 
 * Simple and lightweight (~19kB gzipped)
 * No statically built html files

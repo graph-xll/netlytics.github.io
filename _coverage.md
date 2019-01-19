@@ -4,5 +4,5 @@
 
 > A Java Package for Complex Network Analytics
 
-[GitHub](#)
+[GitHub](https://github.com/netlytics/ktruss)
 [Get Started](#getting-started)

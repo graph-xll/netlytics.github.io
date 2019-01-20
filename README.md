@@ -18,7 +18,7 @@ The first two files are for the forward (regular) graph. The other two are for t
 java -cp "lib/*" it.unimi.dsi.webgraph.BVGraph -o -O -L cnr-2000
 ```
 
-### *Edgelist Format*
+### Edgelist Format
 
 This section is for the case when your graph is given a text file of edges (known as edgelist). *If your graph is already in WebGraph format, skip to the next section.*
 
@@ -50,7 +50,7 @@ For example:
 java -cp "lib/*" it.unimi.dsi.webgraph.BVGraph -g ArcListASCIIGraph car-2000.txt  cnr-2000
 ```
 
-### *Undirected Graphs in WebGraph*
+### Undirected Graphs in WebGraph
 
 For k-truss decomposition, we consider simple undirected graphs. After creating the offset files, remove self-loops in the graphs by running:
 

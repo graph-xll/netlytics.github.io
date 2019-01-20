@@ -69,7 +69,7 @@ Now we obtain the undirected simple graph in WebGraph as the input:
 
 *cnr-2000-noself-sym.graph* 
 *cnr-2000-noself-sym.properties*
-*cnr-2000-noself-sym.offsets *
+*cnr-2000-noself-sym.offsets*
 
 ## Compiling
 

@@ -1,10 +1,5 @@
+
 # Getting Started
-
-# Fast k-Truss Decomposition of Large Graphs
-
-This repository contains efficient implementations for computing the k-truss decomposition of large graphs. The details of the implementations and their optimizations are described in the following paper:
-
-J. Wu, A. Goshulak, V. Srinivasan and A. Thomo, K-Truss Decomposition of Large Networks on a Single Consumer-Grade Machine. In *2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)* (pp. 873-880).
 
 ## Input
 
